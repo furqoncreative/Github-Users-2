@@ -20,7 +20,7 @@ android {
         versionCode 1
         versionName "1.0"
         buildConfigField "String", "BASE_URL", "\"https://api.github.com/\""
-        buildConfigField "String", "API_TOKEN", "\"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\""
+        buildConfigField "String", "API_TOKEN", "\"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\""
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
